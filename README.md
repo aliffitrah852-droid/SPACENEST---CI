@@ -1,6 +1,6 @@
 # SPACENEST — CodeIgniter 4
 
-Sistem Pelaporan & Monitoring Fasilitas FTST UNISMA 45 Bekasi, kini berbasis **CodeIgniter 4.7.6** (MVC).
+Sistem Pelaporan & Monitoring Fasilitas FTST UNIVERSITAS MUHAMMADIYAH INDONESIA, kini berbasis **CodeIgniter 4.7.6** (MVC).
 
 ## Cara menjalankan
 
